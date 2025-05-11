@@ -173,8 +173,6 @@ if __name__ == '__main__':
 
 # Output dari hasil kode programnya
 
-![Screenshot 2025-05-11 233411](https://github.com/user-attachments/assets/9e4ba974-e6bb-431a-9041-781d3a1177c2)
-
 ``````
 Enter number of processors (e.g. 6): 6
 Enter operations per processor (e.g. 100): 100
@@ -198,7 +196,7 @@ Average read time per core (with protocol): 0.000011 seconds
 Average write time per core (no protocol): 0.000020 seconds
 Average write time per core (with protocol): 0.000058 seconds
 
-``````
+```````
 
 # Perbandingan Performa Tanpa Protokol Koherensi Cache vs Dengan Protokol Koherensi Cache
 
